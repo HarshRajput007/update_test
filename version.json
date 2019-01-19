@@ -1,10 +1,18 @@
-{
-    "error":false,
-    "version": [
+{"Version": [
 
     {
-    "current_version":"1.8"
+    "version":"1.8",
+    "error": "01"
     }
     
+    ],
+
+    "Controle":[
+        {
+            "version": "1.8",
+            "error": "01"
+        }
+
     ]
+
     }
